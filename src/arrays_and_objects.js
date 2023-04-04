@@ -19,7 +19,7 @@ console.log(product_prices)
 /*
 Print product price by index
 For example, print the product price of 200
-We can aacess specific item in the array by index number. Index always starts with 0.
+We can access specific item in the array by index number. Index always starts with 0.
 In the above array index of the item 100 is 0, index of the item 70 is 1 and so on.
 */
 
